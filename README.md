@@ -1,1 +1,1 @@
-# Designing-Database-for-Students-Record-
+This project provides a detailed examination of designing and implementing a SQLite database for managing student records.  It consists of six interconnected tables, Student, Subject, Classes, ClassSession, Practical, and Examination. The schema is designed to ensure data integrity.
